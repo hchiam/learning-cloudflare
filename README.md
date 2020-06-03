@@ -115,7 +115,9 @@ async function handleRequest(request) {
 }
 ```
 
-To try this one out, first go to <https://www.google.com> or <https://lucky-rice-5b80.hchiam.workers.dev>. And then run this code inside the web dev console:
+To try this one out, first go to <https://www.google.com> or <https://lucky-rice-5b80.hchiam.workers.dev>
+
+And then run this code inside the web dev console:
 
 ```js
 callCloudFlareApi();
