@@ -1,10 +1,14 @@
 # Learning serverless API functions with CloudFlare workers
 
-GUI to create serverless API functions.
+Use a GUI (and some code) to create serverless API functions.
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-**Tutorial:** <https://gomakethings.com/getting-started-with-serverless-using-cloudflare-workers-and-vanilla-js>
+## Tutorial I followed
+
+<https://gomakethings.com/getting-started-with-serverless-using-cloudflare-workers-and-vanilla-js>
+
+## Steps
 
 1. Sign up: <https://workers.cloudflare.com>
 2. Subdomain
