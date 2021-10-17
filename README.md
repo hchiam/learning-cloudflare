@@ -139,3 +139,13 @@ function callCloudFlareApi() {
     });
 }
 ```
+
+## Share/serve your localhost on the web (temporarily)
+
+```bash
+cloudflared tunnel --url http://localhost:3000
+```
+
+<https://www.youtube.com/watch?v=SlBOpNLFUC0>
+
+<https://github.com/cloudflare/cloudflared>
