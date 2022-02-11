@@ -149,3 +149,11 @@ cloudflared tunnel --url http://localhost:3000
 <https://www.youtube.com/watch?v=SlBOpNLFUC0>
 
 <https://github.com/cloudflare/cloudflared>
+
+## Update your workers afterwards
+
+1. Workers
+2. (click on site)
+3. Resources
+4. Quick edit
+5. (now you should see the code and HTTP/Preview sidebars)
